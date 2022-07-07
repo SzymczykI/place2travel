@@ -28,5 +28,10 @@ export default {
             title: 'Image',
             type: 'image',
         },
-    ]
+    ],
+    perview: {
+        select: {
+            title: 'name', media: 'image'
+        }
+    }
 }

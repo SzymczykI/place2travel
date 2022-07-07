@@ -21,6 +21,7 @@ export default {
                 list: [
                     { title: 'House', value: 'house' },
                     { title: 'Flat', value: 'flat' },
+                    { title: 'Cabin', value: 'cabin' },
                     { title: 'Bed and Breakfast', value: 'bed-and-breakfast' },
                     { title: 'Boutique Hotel', value: 'boutique-hotel' },
                 ]
